@@ -1,5 +1,5 @@
 # MultiParty-Cordapp
-A Corda app for transactions between multiple parties and notary. 
+A Corda dapp for transactions between multiple parties and notary. 
 
 ## Dapp contains three parts:
 
